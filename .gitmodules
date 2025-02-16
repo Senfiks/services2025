@@ -1,0 +1,4 @@
+[submodule "Senfiks/services2025"]
+	path = Senfiks/services2025
+	url = git@github.com:Senfiks/services2025.git
+	branch = main
